@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile.png" alt="Cuong Ngo" width="160" height="160"/>
+</p>
+
 <h1 align="center">Hi, I'm Cuong Ngo 👋</h1>
 <p align="center"><i>"Spec-driven. Verified, not vibed."</i></p>
 
@@ -39,16 +43,16 @@ Full Stack Developer with **10+ years** of PHP (Laravel / Symfony), now building
 | Project | Description | |
 | --- | --- | --- |
 | **mango** | Claude Code plugin: a portable, gated ticket-lifecycle harness — counted requirements matrix, hard quality gates, ticket-blind adversarial review, proof-per-surface frontend track | [↗](https://github.com/cuongdinhngo/mango-plugins) |
-| **MDPilot** | Browser-based markdown workspace on three pillars — **Editor · Insights · Pilot**: edit rendered markdown, analyze Claude Code usage locally, and drive a live agent over a token-paired localhost bridge. React, TypeScript, PWA — [try it live](https://cuongdinhngo.github.io/mdpilot/) | [↗](https://github.com/cuongdinhngo/mdpilot) |
-| **tuvidauso** | Vietnamese astrology suite (Tử Vi Đẩu Số, Bát Tự, Western zodiac, numerology) — 100% client-side chart engine with multi-provider AI reading (Claude, GPT, Gemini, Groq). React 19, TypeScript, Zustand | [↗](https://github.com/cuongdinhngo/tuvidauso) |
+| **MDPilot** | Browser-based markdown workspace on three pillars — **Editor · Insights · Pilot**: edit rendered markdown, analyze Claude Code usage locally, and drive a live agent over a token-paired localhost bridge. React, TypeScript, PWA — [try it live](https://mdpilot.vercel.app/) | [↗](https://github.com/cuongdinhngo/mdpilot) |
+| **tuvidauso** | Vietnamese astrology suite (Tử Vi Đẩu Số, Bát Tự, Western zodiac, numerology) — 100% client-side chart engine with multi-provider AI reading (Claude, GPT, Gemini, Groq). React 19, TypeScript, Zustand — [try it live](https://tuvidauso.vercel.app/) | [↗](https://github.com/cuongdinhngo/tuvidauso) |
 | **atom** | Lightweight PHP MVC framework — fluent query builder, middleware with priority ordering, DI container, JWT & session auth, signed URLs | [↗](https://github.com/cuongdinhngo/atom) |
 | **lara-repository** | Auto-generated Interface & Repository files via Repository pattern in Laravel | [↗](https://github.com/cuongdinhngo/lara-repository) |
 
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cuongdinhngo&show_icons=true&theme=dark&hide_border=true&bg_color=000000&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongdinhngo&layout=compact&theme=dark&hide_border=true&bg_color=000000" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cuongdinhngo&theme=github_dark" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cuongdinhngo&theme=github_dark" height="165"/>
 </p>
 
 <img src="https://streak-stats.demolab.com?user=cuongdinhngo&theme=dark&hide_border=true&background=000000"/>
