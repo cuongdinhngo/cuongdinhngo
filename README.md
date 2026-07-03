@@ -14,7 +14,7 @@
 
 ### 👋 About me
 
-Full Stack Developer with **10+ years** of PHP (Laravel / Symfony), now building modern web apps with **Vue, Nuxt and React** — plus developer tooling around **Claude Code**. I focus on software that is spec-driven, testable, and maintainable — quality should be *counted, not claimed*.
+Full Stack Developer with **10+ years** of PHP (Laravel / Symfony), now building modern web apps with **Vue, Nuxt, React and NestJS** — plus developer tooling around **Claude Code**. I focus on software that is spec-driven, testable, and maintainable — quality should be *counted, not claimed*.
 
 ### 🚀 Currently
 
@@ -32,6 +32,7 @@ Full Stack Developer with **10+ years** of PHP (Laravel / Symfony), now building
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -45,6 +46,7 @@ Full Stack Developer with **10+ years** of PHP (Laravel / Symfony), now building
 | **mango** | Claude Code plugin: a portable, gated ticket-lifecycle harness — counted requirements matrix, hard quality gates, ticket-blind adversarial review, proof-per-surface frontend track | [↗](https://github.com/cuongdinhngo/mango-plugins) |
 | **MDPilot** | Browser-based markdown workspace on three pillars — **Editor · Insights · Pilot**: edit rendered markdown, analyze Claude Code usage locally, and drive a live agent over a token-paired localhost bridge. React, TypeScript, PWA — [try it live](https://mdpilot.vercel.app/) | [↗](https://github.com/cuongdinhngo/mdpilot) |
 | **tuvidauso** | Vietnamese astrology suite (Tử Vi Đẩu Số, Bát Tự, Western zodiac, numerology) — 100% client-side chart engine with multi-provider AI reading (Claude, GPT, Gemini, Groq). React 19, TypeScript, Zustand — [try it live](https://tuvidauso.vercel.app/) | [↗](https://github.com/cuongdinhngo/tuvidauso) |
+| **nestjs-social-auth** | Plug-and-play SSO for NestJS — Google, Facebook, LinkedIn & Apple OAuth via Passport, CLI schematic for boilerplate, MCP support for AI assistants, 109 tests | [↗](https://github.com/cuongdinhngo/nestjs-social-auth) |
 | **atom** | Lightweight PHP MVC framework — fluent query builder, middleware with priority ordering, DI container, JWT & session auth, signed URLs | [↗](https://github.com/cuongdinhngo/atom) |
 | **lara-repository** | Auto-generated Interface & Repository files via Repository pattern in Laravel | [↗](https://github.com/cuongdinhngo/lara-repository) |
 
