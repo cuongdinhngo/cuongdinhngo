@@ -22,6 +22,7 @@ Full Stack Developer with **10+ years** of PHP (Laravel / Symfony), now building
 - 🤖 Building **AI-assisted engineering workflows** with Claude Code — gated, spec-driven, verified by tests
 - 📐 Designing an **AI governance framework** for engineering teams (quality gates, falsifiable done-criteria)
 - 🥭 Creator of **[mango](https://github.com/cuongdinhngo/mango-plugins)** — a Claude Code plugin for disciplined, gate-based ticket workflows
+- 🗺️ Building **[code-atlas](https://github.com/cuongdinhngo/code-atlas)** — a local-first MCP server that gives AI coding agents a resolved symbol graph (callers, implementations, impact) instead of grep-and-read
 - ✈️ Building **[MDPilot](https://github.com/cuongdinhngo/mdpilot)** — a browser-based markdown workspace that reads, drives, and edits your Claude Code setup in a closed loop
 - 📚 Learning in public at **[Đồ nghề Dev](https://donghedev.vercel.app/)** — bilingual (VI/EN) visual notes on AI agents, RAG, LLM systems & architecture, organized 101 → 301
 
