@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://cuongdinhngo.github.io"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ngodinhcuong/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://donghedev.vercel.app/"><img src="https://img.shields.io/badge/Notes-black?style=for-the-badge&logo=bookstack&logoColor=white"/></a>
 </p>
 
 ---
@@ -22,6 +23,7 @@ Full Stack Developer with **10+ years** of PHP (Laravel / Symfony), now building
 - 📐 Designing an **AI governance framework** for engineering teams (quality gates, falsifiable done-criteria)
 - 🥭 Creator of **[mango](https://github.com/cuongdinhngo/mango-plugins)** — a Claude Code plugin for disciplined, gate-based ticket workflows
 - ✈️ Building **[MDPilot](https://github.com/cuongdinhngo/mdpilot)** — a browser-based markdown workspace that reads, drives, and edits your Claude Code setup in a closed loop
+- 📚 Learning in public at **[Đồ nghề Dev](https://donghedev.vercel.app/)** — bilingual (VI/EN) visual notes on AI agents, RAG, LLM systems & architecture, organized 101 → 301
 
 ### 🛠️ Tech Stack
 
@@ -44,6 +46,7 @@ Full Stack Developer with **10+ years** of PHP (Laravel / Symfony), now building
 | Project | Description | |
 | --- | --- | --- |
 | **mango** | Claude Code plugin: a portable, gated ticket-lifecycle harness — counted requirements matrix, hard quality gates, ticket-blind adversarial review, proof-per-surface frontend track | [↗](https://github.com/cuongdinhngo/mango-plugins) |
+| **code-atlas** | Evidence layer for AI coding agents — local-first MCP server that indexes a codebase into a symbol graph and answers callers / implementations / impact as resolved rows. PHP, TS/JS, Python, T-SQL · 24 tools · **~69× fewer tokens** than grep-and-read | [↗](https://github.com/cuongdinhngo/code-atlas) |
 | **MDPilot** | Browser-based markdown workspace on three pillars — **Editor · Insights · Pilot**: edit rendered markdown, analyze Claude Code usage locally, and drive a live agent over a token-paired localhost bridge. React, TypeScript, PWA — [try it live](https://mdpilot.vercel.app/) | [↗](https://github.com/cuongdinhngo/mdpilot) |
 | **tuvidauso** | Vietnamese astrology suite (Tử Vi Đẩu Số, Bát Tự, Western zodiac, numerology) — 100% client-side chart engine with multi-provider AI reading (Claude, GPT, Gemini, Groq). React 19, TypeScript, Zustand — [try it live](https://tuvidauso.vercel.app/) | [↗](https://github.com/cuongdinhngo/tuvidauso) |
 | **nestjs-social-auth** | Plug-and-play SSO for NestJS — Google, Facebook, LinkedIn & Apple OAuth via Passport, CLI schematic for boilerplate, MCP support for AI assistants, 109 tests | [↗](https://github.com/cuongdinhngo/nestjs-social-auth) |
